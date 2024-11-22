@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Credentials and Tokens
+credentials/
+token.pickle
+src/config.py
+
+# Generated files
+certificates/
+logs/
+
+# IDE/Editor
+.vscode/
+.idea/
+.metadata/  
